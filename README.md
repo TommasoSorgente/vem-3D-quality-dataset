@@ -2,13 +2,19 @@
 Datasets used for "A quality indicator for polyhedral meshes in the Virtual Element Method" by T. Sorgente, S. Biasotti, G. Manzini and M. Spagnuolo.
 These datasets have been created within the mesh generation framework presented in the Section 4 of the paper.
 
-## Content
+The repository contains six **tetrahedral datasets**:
 
 <p align="center"><img src="tet_datasets.png" width="500"></p>
 
+three **hexahedral datasets**:
+
 <p align="center"><img src="hex_datasets.png" width="500"></p>
 
+and three **Voronoi datasets**:
+
 <p align="center"><img src="voro_datasets.png" width="500"></p>
+
+## Content
 
 Each .zip file contains a dataset made of five meshes with decreasing mesh size; some of them are divided in two parts due to the file size limitations of github.
 
