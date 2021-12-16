@@ -3,6 +3,13 @@ Datasets used for "A quality indicator for polyhedral meshes in the Virtual Elem
 These datasets have been created within the mesh generation framework presented in the Section 4 of the paper.
 
 ## Content
+
+<p align="center"><img src="tet_datasets.png" width="500"></p>
+
+<p align="center"><img src="hex_datasets.png" width="500"></p>
+
+<p align="center"><img src="voro_datasets.png" width="500"></p>
+
 Each .zip file contains a dataset made of five meshes with decreasing mesh size; some of them are divided in two parts due to the file size limitations of github.
 
 Each mesh is saved in the REGN_FACE format, which consists in a .node file, containing informations on the vertices:
