@@ -13,9 +13,9 @@ and a .ele file, containing informations about the elements with the following s
 
 _element id____n. of faces_
 
-_______face id____n. of face verts____face verts ids_
-_______face id____n. of face verts____face verts ids_
-_______face id____n. of face verts____face verts ids_
+_______face id____n. of face verts____face verts ids_\\
+_______face id____n. of face verts____face verts ids_\\
+_______face id____n. of face verts____face verts ids_\\
 ...
 
 ## Citing us
