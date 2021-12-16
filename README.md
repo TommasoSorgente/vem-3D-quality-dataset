@@ -13,7 +13,7 @@ and a .ele file, containing informations about the elements with the following s
 
 _element-id____n-of-faces_
 
-_ ___face_id____n_face_verts____face_verts_ids_
+____face_id____n_face_verts____face_verts_ids_
 
 ## Citing us
 If you use one or more datasets in your academic projects, please consider citing the original paper using the following BibTeX entry:
