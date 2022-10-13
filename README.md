@@ -1,4 +1,4 @@
-# vem-indicator-3D-dataset
+# vem-3D-quality-dataset
 Datasets used for "A quality indicator for polyhedral meshes in the Virtual Element Method" by T. Sorgente, S. Biasotti, G. Manzini and M. Spagnuolo.
 These datasets have been created within the mesh generation framework presented in the Section 4 of the paper.
 
